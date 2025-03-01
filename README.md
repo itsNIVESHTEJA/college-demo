@@ -1,3 +1,3 @@
 # college-demo
 this is my first git repository<br>
-author - Nivesh teja
+author - Nivesh teja.
